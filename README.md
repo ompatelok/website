@@ -1,6 +1,6 @@
 # jacobtomlinson.dev [![Netlify](https://img.shields.io/netlify/523dc931-d960-4932-a028-593bf87be0f0)](https://app.netlify.com/sites/jacobtomlinson/overview)
 
-The code which powers jacobtomlinson.dev
+The code which powers Jacobtomlinson.dev
 
 ## Theme
 This blog is made by using my own [Carte Noire theme][1].
@@ -32,3 +32,4 @@ The Hugo theme, HTML, CSS and JavaScript is licensed under GPLv3 (unless stated 
 See the LICENSE file for more information.
 
 [1]: https://github.com/jacobtomlinson/carte-noire-hugo
+HELLO OM
